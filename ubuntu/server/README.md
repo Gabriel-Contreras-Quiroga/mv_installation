@@ -15,7 +15,7 @@ Descarga la imagen ISO de Ubuntu Server: Ve al sitio web oficial de Ubuntu (http
 
 <br>
 
-![alt text](img/1.PNG)
+![alt text](img/12.PNG)
 
 <br>
 
@@ -23,7 +23,7 @@ Crea un medio de instalación: Una vez que hayas descargado la imagen ISO, neces
 
 <br>
 
-![alt text](img/1.PNG)
+![alt text](img/13.PNG)
 
 <br>
 
