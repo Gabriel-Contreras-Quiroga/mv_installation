@@ -1,6 +1,6 @@
 <center>
 
-# Instalación de sistema operativo Ubuntu
+# Instalación de sistema operativo Ubuntu Desktop
 
 
 </center>
